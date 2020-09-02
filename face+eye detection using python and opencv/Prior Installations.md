@@ -1,6 +1,3 @@
-Credits for the Code and Resources:- https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
-
-
 Install the following dependencies:-
 
 1.cv2:- pip install opencv-python
