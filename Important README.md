@@ -1,1 +1,1 @@
-All the projects are been taken from different people's repositories and sometimes the codes are fetched from their YouTube Channels. I give the credits to all of them and respect their work.I am using their codes just for educational purposes and will not misuse their repositories.
+All the projects are been taken from different people's repositories and sometimes the codes are fetched from their YouTube Channels. I give the credits to all of them and respect their work. I am using their codes just for educational purposes and will not misuse their repositories.
