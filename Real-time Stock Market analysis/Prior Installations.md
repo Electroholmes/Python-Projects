@@ -1,6 +1,6 @@
 Install the following:-
 
-1.equests package for Python:- pip install requests
+1.Requests package for Python:- pip install requests
 
 2. BeautifulSoup4:- pip install beautifulsoup4
 
