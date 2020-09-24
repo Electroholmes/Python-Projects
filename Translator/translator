@@ -1,0 +1,12 @@
+from googletrans import Translator
+
+text ='''Python ist eine interpretierte Programmiersprache auf hoher Ebene und für allgemeine Zwecke. Pythons Designphilosophie wurde von Guido van Rossum entwickelt und 1991 erstmals veröffentlicht. Die Designphilosophie von Python betont die Lesbarkeit von Code durch die bemerkenswerte Verwendung von signifikanten Leerzeichen.
+ '''
+
+translator= Translator()
+
+dt = translator.detect(text)
+print(dt)
+
+translated = translator.translate(text)
+print(translated.text)
