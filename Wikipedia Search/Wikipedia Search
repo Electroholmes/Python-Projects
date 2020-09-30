@@ -1,0 +1,4 @@
+import wikipedia
+
+page= wikipedia.summary("internet of things")
+print(page)
