@@ -162,5 +162,4 @@ if __name__ == "__main__" :
 	# start the GUI 
 	gui.mainloop() 
 	
-import pywhatkit as whatsapp
-whatsapp.sendwhatmsg("+919619170967", "Hey", 0,0)
+
